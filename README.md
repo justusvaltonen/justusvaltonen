@@ -12,6 +12,9 @@ I have a file that lists some of my experience on my own projects, but it's miss
 
 I do my best to generate a timeline of self development when doing all sorts of tasks. Failed attempts on easy tasks will be included (not all). Usually still, the hero manages to overcome the difficulties.
 
+Sidenote:
+-Creating another branch on my personal profile would define myself as a split-personality disorder patient? Maybe an identity-centric dev?
+
 <!--
 **justusvaltonen/justusvaltonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
